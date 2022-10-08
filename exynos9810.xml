@@ -17,6 +17,6 @@
   <project name="cyder9810trees/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="tiramisu" remote="github"/>
   
   <!-- Kernel -->
-  <project name="cyder9810trees/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+  <project name="cyder9810trees/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="tiramisu" remote="github"/>
 
 </manifest>
