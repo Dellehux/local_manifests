@@ -2,7 +2,7 @@
 <manifest>
 
   <!--Device tree-->
-  <project name="cyder9810trees/device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="tiramisu-rebase" remote="github"/>
+  <project name="cyder9810trees/device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="tiramisu" remote="github"/>
   <project name="cyder9810trees/device_samsung_starlte" path="device/samsung/starlte" revision="evolution" remote="github"/>
   <project name="cyder9810trees/device_samsung_star2lte" path="device/samsung/star2lte" revision="evolution" remote="github"/>
   <project name="cyder9810trees/device_samsung_crownlte" path="device/samsung/crownlte" revision="evolution" remote="github"/>
@@ -17,6 +17,6 @@
   <project name="cyder9810trees/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="tiramisu" remote="github"/>
   
   <!-- Kernel -->
-  <project name="cyder9810trees/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+  <project name="cyder9810trees/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="tiramisu" remote="github"/>
 
 </manifest>
